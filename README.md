@@ -50,10 +50,7 @@ A hipótese foi refutada: CC e LOC não são preditores robustos do esforço de 
 │   ├── figA_heatmap_comparativo.png # Correlações comparativas — 3 repositórios
 │   ├── figB_boxplot_repos.png       # T_implementação por repositório
 │   ├── figC_boxplots_cc_repos.png   # CC por faixa — 3 repositórios
-│   └── figD_scatter_cc_repos.png    # Scatter comparativo — 3 repositórios
-│
-└── paper/
-    └── artigo_esforco_bugs.tex      # Artigo científico completo (LaTeX)
+    └── figD_scatter_cc_repos.png    # Scatter comparativo — 3 repositórios
 ```
 
 ---
