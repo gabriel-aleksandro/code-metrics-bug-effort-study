@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.env
+.venv/
+venv/
+
+# Relatórios gerados localmente
+results/
+relatorio_estatistico.txt
+
+# Credenciais
+*.token

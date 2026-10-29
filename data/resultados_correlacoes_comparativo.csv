@@ -1,0 +1,13 @@
+repo,preditor,r,p,sig,nivel
+pandas,cc_antes,-0.0583,0.0027,**,função
+pandas,loc_antes,0.0179,0.3575,ns,função
+sklearn,cc_antes,0.1061,0.0156,*,função
+sklearn,loc_antes,0.1445,0.001,***,função
+numpy,cc_antes,0.0807,0.2081,ns,função
+numpy,loc_antes,-0.0939,0.1428,ns,função
+pandas,cc_mean,0.0195,0.5985,ns,PR
+pandas,loc_mean,0.0359,0.334,ns,PR
+sklearn,cc_mean,0.1262,0.1053,ns,PR
+sklearn,loc_mean,0.1608,0.0385,*,PR
+numpy,cc_mean,0.0572,0.5476,ns,PR
+numpy,loc_mean,-0.0195,0.8373,ns,PR
