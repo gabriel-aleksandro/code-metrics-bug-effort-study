@@ -3,7 +3,7 @@
 Estudo empírico em repositórios Python open-source — Iniciação Científica UNICAMP (2024–2026)
 
 **Autor:** Gabriel Aleksandro de Paula  
-**Orientadores:** Prof. Dr. Plinio Roberto Souza Vilela · Prof. Dr. Pedro Ivo Garcia-Nunes  
+**Orientadores:** Prof. Dr. Plinio Roberto Souza Vilela
 **Instituição:** Faculdade de Tecnologia — UNICAMP, Limeira, SP
 
 ---
